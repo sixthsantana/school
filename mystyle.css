@@ -3,13 +3,29 @@ h1 {
 }
 
 body {
-    background-color: rgb(22, 194, 88);
+    background-image: url(background.png);
 }
 
 #content {
-    color: rgb(134, 8, 8);
+    color: rgb(0, 0, 0);
     width: 800px;
     margin-left: auto;
     margin-right: auto;
     background-color: beige
 } 
+
+#java {
+    color: rgb(0, 0, 0);
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ECB8A5
+}
+
+#me {
+    color: rgb(0, 0, 0);
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #7AE7C7
+}
